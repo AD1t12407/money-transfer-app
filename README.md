@@ -60,9 +60,6 @@ A simple money transfer application with a React frontend and Node.js/Express ba
 - `GET /api/user/details`: Get current user details
 - `POST /api/transactions/transfer`: Transfer money
 
-Certainly! Here's a revised version of the README file with improvements and shortened sections:
-
-````markdown
 # Money Transfer App
 
 ## Overview
@@ -136,4 +133,4 @@ A simple money transfer application with a React frontend and Node.js/Express ba
 4. **Validation**: Implement data validation for integrity and error prevention.
 
 5. **Transaction History**: Enable users to view their transaction history.
-````
+
