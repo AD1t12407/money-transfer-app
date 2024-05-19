@@ -22,7 +22,7 @@ A simple money transfer application with a React frontend and Node.js/Express ba
 1. **Clone the Repository**:
 
    ```sh
-   git clone https://github.com/yourusername/money-transfer-app.git
+   git clone https://github.com/AD1t12407/money-transfer-app.git
    cd money-transfer-app
    ```
 
